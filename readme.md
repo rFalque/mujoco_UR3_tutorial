@@ -24,6 +24,6 @@ pip install mujoco
 UR3 files: git@github.com:SouthColumn76/universal_robots_ur3e.git
 
 ```bash
-apt install git
+sudo apt install git
 git clone git@github.com:SouthColumn76/universal_robots_ur3e.git
 ```
